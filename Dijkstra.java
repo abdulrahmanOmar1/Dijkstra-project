@@ -16,7 +16,6 @@ public class Dijkstra {
 	private PriorityQueue<Country> heap;
 
 	public Dijkstra() {
-
 	}
 
 	public Dijkstra(ArrayList<Country> Countrys, Country source, Country destination) {
