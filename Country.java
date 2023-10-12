@@ -13,7 +13,6 @@ public class Country implements Comparable<Country> {
 	private Country tempPrev;
 	Country prevousCountry;
 	Button test = new Button();
-
 	public Country(String name, float x, float y) { //Country name
 		this.x = x;
 		this.y = y;
